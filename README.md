@@ -1,4 +1,4 @@
-Credit_Risk_Analysis
+Credit Risk Analysis
 ==============================
 
 Credit Risk Modeling Repository consisting of adhoc analysis and data science notebooks
