@@ -23,7 +23,7 @@ This is part one of the Credit Risk Modeling Project.
 
 This matrix explains how one loan_delinquency_status changes to another in every next loan age
 * 0-29 days of delinquency means the monthly loan re-payment is up-to-date
-* RA - REO Acquisition is when a borrower defaults and the bank re-posseses the property for re-sale. This is considered a highly delinquent status
+* RA - REO Acquisition is when a borrower defaults and the bank re-posseses the property for sale. This is considered a highly delinquent status
 * 30-59 days of delinquency is when a borrower has missed one monthly payment. This is considered a low delinquent status.
 * Similary, 60-89, 90-119 so and so forth up until 360 days of delinquency is considered, further delinquent statuses are considered default. Higher delinquent statuses rarely recover (low cure rate) and hence this analysis treats all statuses 360 days and higher the same
 
