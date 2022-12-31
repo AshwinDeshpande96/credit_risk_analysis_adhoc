@@ -13,7 +13,7 @@ This is part one of the Credit Risk Modeling Project.
         * Every row is an approved loan consisting of details at the time of application
     * **Performance Data**
         * This data consists of monthly performance of every loan approved in that quarter 
-        * Note: performance data in 1999 Q1 only signifies the approval of that loan in 1999 Q1, it will also consist of monthly performance in 2022
+        * Note: performance data in 1999 Q1 only signifies the approval of that loan in 1999 Q1, it can consist of monthly performance in 2022
 * This repo consist of data science and research efforts to design a system that is free of assumptions a biases capable of producing a model that predicts the most likely status of a loan 3 or 6 months in the future.
 * Engineering codebase for application of this data science system would be another repository.
 * This repo is for reports and analysis to explain features of the data.
